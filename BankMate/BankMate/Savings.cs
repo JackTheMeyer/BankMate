@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstApp
+namespace BankMate
 {
     public class Savings : Account
     {
