@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BankMate
 {
@@ -11,7 +11,7 @@ namespace BankMate
     {
         BankingSystem manager = new BankingSystem();
         
-        [TestCase]
+        [TestMethod]
         public void TestAddUser()
         {
             Assert.AreEqual(manager.Users.Count, 0);
