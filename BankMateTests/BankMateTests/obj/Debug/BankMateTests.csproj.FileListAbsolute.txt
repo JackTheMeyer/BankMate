@@ -28,5 +28,5 @@ C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\obj\Debug\BankMateTe
 C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\obj\Debug\BankMateTests.csproj.CoreCompileInputs.cache
 C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\obj\Debug\BankMateTests.csproj.CopyComplete
 C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\obj\Debug\BankMateTests.pdb
-C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\bin\Debug\BankMateTests.exe
-C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\obj\Debug\BankMateTests.exe
+C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\bin\Debug\BankMateTests.dll
+C:\Users\JackM\Desktop\BankMate\BankMateTests\BankMateTests\obj\Debug\BankMateTests.dll
