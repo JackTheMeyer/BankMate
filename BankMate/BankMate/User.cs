@@ -14,7 +14,7 @@ namespace FirstApp
         public User(string username, string password)
         {
             _username = username;
-            _password = password;
+            _password = password;wexwdcec3ed3e
         }
 
         public string Username
