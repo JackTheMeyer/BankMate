@@ -1,0 +1,6 @@
+C:\Users\JackM\Desktop\TestMate\MateLibrary\MateLibrary\obj\Debug\MateLibrary.csprojAssemblyReference.cache
+C:\Users\JackM\Desktop\TestMate\MateLibrary\MateLibrary\obj\Debug\MateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JackM\Desktop\TestMate\MateLibrary\MateLibrary\bin\Debug\MateLibrary.dll
+C:\Users\JackM\Desktop\TestMate\MateLibrary\MateLibrary\bin\Debug\MateLibrary.pdb
+C:\Users\JackM\Desktop\TestMate\MateLibrary\MateLibrary\obj\Debug\MateLibrary.dll
+C:\Users\JackM\Desktop\TestMate\MateLibrary\MateLibrary\obj\Debug\MateLibrary.pdb
