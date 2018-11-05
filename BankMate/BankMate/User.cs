@@ -14,7 +14,7 @@ namespace BankMate
         public User(string username, string password)
         {
             _username = username;
-            _password = password;wexwdcec3ed3e
+            _password = password;
         }
 
         public string Username
